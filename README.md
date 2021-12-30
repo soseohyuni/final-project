@@ -22,6 +22,7 @@ Tools|Github, Eclipse|
 <br><br>
 
 ## ✔ ERD 설계
+![테이블최종](https://user-images.githubusercontent.com/75024035/147765739-fec0cad7-cbde-4e14-b173-82bd1b95b787.png)
 
 <br><br>
 
