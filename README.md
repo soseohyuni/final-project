@@ -23,7 +23,7 @@
 OS|Windows10|
 브라우저|Chrome|
 개발 언어| (서버) apache-tomcat-8.5 <br> (클라이언트) Java, JavaScript, HTML5, CSS|
-Framework||
+Framework|Spring|
 DBMS|Oracle|
 Tools|Github, Eclipse|
 
